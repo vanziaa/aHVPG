@@ -1,6 +1,8 @@
 # aHVPG
- liver and spleen segmentation model
+ Liver and spleen segmentation model
 
-These models were trained using upper abdominal CT from patients with cirrhosis.
+These models were trained using upper abdominal CT from patients with __cirrhosis__.
 
+EXAMPLE
 ![Image text](https://github.com/vanziaa/aHVPG/blob/main/FIG_EXAMPLE.png)
+
